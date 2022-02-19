@@ -16,11 +16,17 @@ Technolgy used
 AutoEncoders:
 An autoencoder is a neural network architecture capable of discovering structure within data in order to develop a compressed representation of the data. 
 
+![alt text](https://github.com/bansalvarun116/SuperResolution/blob/main/images/autoencoder.jfif)
 
 Resenets :
 In order to solve the problem of the vanishing/exploding gradient, this architecture introduced the concept called Residual Network. In this network we use a technique called skip connections . The skip connection skips training from a few layers and connects directly to the output. 
 The approach behind this network is instead of layers learn the underlying mapping, we allow network fit the residual mapping. 
 
+![alt text](https://github.com/bansalvarun116/SuperResolution/blob/main/images/resnet.PNG)
+
+
+Results Demo:
+![alt text](https://github.com/bansalvarun116/SuperResolution/blob/main/images/results.PNG)
 
 
 
